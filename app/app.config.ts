@@ -1,26 +1,27 @@
 export default defineAppConfig({
   global: {
-    meetingLink: 'https://cal.com/hugorcd/15min',
+    meetingLink: 'https://cal.com/x/15min',
     available: true,
   },
   profile: {
-    name: 'Hugo Richard',
-    job: 'Frontend Architect and Designer',
-    email: 'contact@hrcd.fr',
-    phone: '(+33) 6 21 56 22 18',
+    name: 'Dany Chaker',
+    job: 'Student at High School of Technology in Brno',
+    email: 'dany@chaker.cz',
+    phone: '+420 608 925 906',
     picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
   },
   socials: {
-    github: 'https://github.com/HugoRCD',
-    twitter: 'https://twitter.com/HugoRCD__',
-    linkedin: 'https://www.linkedin.com/in/hugo-richard-0801',
-    instagram: 'https://www.instagram.com/hugo.rcd_',
-    spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
+    github: 'https://github.com/SDragonex',
+    twitter: 'https://twitter.com/SDragonex',
+    linkedin: 'https://www.linkedin.com/in/',
+    instagram: 'https://www.instagram.com/chaker.dany',
+    spotify: 'https://open.spotify.com/user/vaxztugt5y6mt1y3a09h1svoj',
   },
   seo: {
-    title: 'Canvas a Nuxt portfolio template',
-    description: 'Canvas is a simple but beautiful portfolio template for designers and developers built with Nuxt and Tailwind CSS. Made with ❤️ by HugoRCD',
-    url: 'https://canvas.hrcd.fr',
+    title: 'Portfolio',
+    description: 'This site was built with Nuxt and Tailwind CSS',
+    url: 'https://sdragonex.nuxt.space',
+    lang: 'en',
   },
   ui: {
     colors: {
