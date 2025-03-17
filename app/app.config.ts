@@ -8,7 +8,7 @@ export default defineAppConfig({
     job: 'Student at High School of Technology in Brno',
     email: 'dany@chaker.cz',
     phone: '+420 608 925 906',
-    picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
+    picture: 'https://avatars.githubusercontent.com/u/77692779?v=4',
   },
   socials: {
     github: 'https://github.com/SDragonex',
